@@ -4,7 +4,7 @@ This repository serves as the technical foundation for my AI Automation Agency. 
 
 ## 🛠 Tech Stack & Focus
 * **Language:** Python 3.12+
-* **Concepts:** Object-Oriented Programming (OOP), Decorators, Generators, Asynchronous Programming.
+* **Focus Advanced Python:** Object-Oriented Programming (OOP), Decorators, Generators, Asynchronous Programming.
 * **Goal:** Building the core engine for Agentic RAG workflows.
 
 ## 📅 Roadmap
